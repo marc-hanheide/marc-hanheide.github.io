@@ -7,7 +7,6 @@ University of Lincoln, UK
 
 **[📇 Download vCard](./mhanheide.vcf)** - Add to your contacts with one click
 
-
 ---
 
 ## 🎓 Academic Positions
