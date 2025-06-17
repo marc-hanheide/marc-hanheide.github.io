@@ -1,0 +1,19 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Prof Dr-Ing Marc Alexander Hanheide
+N:Hanheide;Marc Alexander;Dr-Ing;Prof;
+TITLE:Professor of Intelligent Robotics and Interactive Systems
+ORG:University of Lincoln;School of Engineering and Physical Science
+EMAIL:mhanheide@lincoln.ac.uk
+ADR:;;Room INB2218, University of Lincoln;Lincoln;;LN6 7TS;United Kingdom
+URL:https://www.hanheide.net
+URL;TYPE=LinkedIn:https://www.linkedin.com/in/marc-hanheide/
+URL;TYPE=GoogleScholar:https://scholar.google.com/citations?user=LKnYg9sAAAAJ&hl=en
+URL;TYPE=ResearchGate:https://www.researchgate.net/profile/Marc-Hanheide-2
+URL;TYPE=ORCID:https://orcid.org/0000-0001-7728-1849
+URL;TYPE=L-CAS:https://lcas.lincoln.ac.uk
+URL;TYPE=AgriFoRwArdS:https://agriforwards-cdt.blogs.lincoln.ac.uk
+NOTE:Director of Lincoln Centre for Autonomous Systems (L-CAS) and EPSRC Centre for Doctoral Training in Agri-Food Robotics (AgriFoRwArdS). Research interests: AI, Robotics, Human-Robot Interaction, Agri-Robotics, Long-Term Autonomy.
+CATEGORIES:Academic,Professor,Robotics,AI,Research
+REV:2025-06-17T00:00:00Z
+END:VCARD
