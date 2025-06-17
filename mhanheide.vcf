@@ -1,9 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN:Prof Dr-Ing Marc Alexander Hanheide
-N:Hanheide;Marc Alexander;Dr-Ing;Prof;
+FN:Marc Alexander Hanheide
+N:Hanheide;Marc Alexander
 TITLE:Professor of Intelligent Robotics and Interactive Systems
-ORG:University of Lincoln;School of Engineering and Physical Science
+ORG:Lincoln Centre for Autonomous Systems (L-CAS);School of Engineering and Physical Science;University of Lincoln
 EMAIL:mhanheide@lincoln.ac.uk
 ADR:;;Room INB2218, University of Lincoln;Lincoln;;LN6 7TS;United Kingdom
 URL:https://www.hanheide.net
