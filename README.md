@@ -1,8 +1,12 @@
 # Prof Dr-Ing Marc Alexander Hanheide
 
-[![Photo]()](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-xm2J2gYEWvSAPeQoLMM86M6yNzSxbbQNu7eql3rlRMlFge7ECyexhLne5AZoCD6iZ7ViG1xKrlEsHRVJ6jxdHXWoBp_wfkeeNJl2Ah2w9Gy09fGeHZ35mFdxOXpx5xVPEvuDa6Q2UNQ/s1600/mhanheide_2017_bw.png)
+[![Photo](mhanheide.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-xm2J2gYEWvSAPeQoLMM86M6yNzSxbbQNu7eql3rlRMlFge7ECyexhLne5AZoCD6iZ7ViG1xKrlEsHRVJ6jxdHXWoBp_wfkeeNJl2Ah2w9Gy09fGeHZ35mFdxOXpx5xVPEvuDa6Q2UNQ/s1600/mhanheide_2017_bw.png)
+
 **Professor of Intelligent Robotics and Interactive Systems**  
 University of Lincoln, UK
+
+**[📇 Download vCard](./mhanheide.vcf)** - Add to your contacts with one click
+
 
 ---
 
@@ -35,9 +39,3 @@ University of Lincoln, UK
 - [University of Lincoln](https://www.lincoln.ac.uk)
 - [Lincoln Centre for Autonomous Systems (L-CAS)](https://lcas.lincoln.ac.uk)
 - [AgriFoRwArdS CDT](https://agriforwards-cdt.blogs.lincoln.ac.uk)
-
----
-
-## 📥 Download Contact Information
-
-**[📇 Download vCard](./marc-hanheide-contact.vcf)** - Add to your contacts with one click
